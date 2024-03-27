@@ -5,11 +5,14 @@
     max-width: 300px;
     margin: 0 auto;
     overflow: hidden;
+    background-color: #373a3e;
+    color: #fff;
   }
   
   .card img {
     width: 100%;
     height: auto;
+    text-align: center;
   }
   
   .card-content {
